@@ -21,3 +21,7 @@
         estudiante_id INT NOT NULL,
         FOREIGN KEY (estudiante_id) REFERENCES estudiante(id)
     );
+
+
+
+> https://youtu.be/xZp5kvpAcIg
